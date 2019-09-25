@@ -1,0 +1,19 @@
+{
+    "name": "User",
+    "properties": {
+      "realm": {
+        "type": "string",
+        "required": false
+      },
+      "username": {
+        "type": "string",
+        "required":false
+      },
+      "email":"string",
+      "emailVerified":{
+          "type":"boolean",
+          "required":false
+      }
+    }
+  }
+  

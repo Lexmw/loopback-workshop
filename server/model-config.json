@@ -37,5 +37,13 @@
   },
   "Note": {
     "dataSource": "db"
+  },
+  "player": {
+    "dataSource": "MongoDB",
+    "public": true
+  },
+  "team": {
+    "dataSource": "MongoDB",
+    "public": true
   }
 }
