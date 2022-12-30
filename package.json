@@ -24,7 +24,7 @@
     "loopback-component-explorer": "^6.2.0",
     "loopback-connector-mongodb": "^5.0.1",
     "loopback-connector-twilio": "^1.0.0",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "morgan": "^1.9.1",
     "serve-favicon": "^2.0.1",
     "strong-error-handler": "^3.0.0"
